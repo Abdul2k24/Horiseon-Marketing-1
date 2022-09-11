@@ -3,7 +3,6 @@ Hello there welcome to my first Readme! Below I will give a step by step follow 
 The user story wanted a codebase that follows accessibility standards 
 # First
  I added Semantic HTML elements to make the code more structured instead of having alot of div tags
-
 # Second 
 make it follow a logical flow! such as header,nav, section, article and footer 
 
